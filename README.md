@@ -1,4 +1,8 @@
-omrails
-=======
+# Ung Mang Jing Chang
 
-making rails application named the omrails with skillshare.com
+this is application made by ruby on rails programming.
+and making for my friends.
+
+[*One Month Rails: Teach Yourself to Code*](http://facebook.com/0215story)
+
+by [Steve Baek](http://facebook.com/0215story)
